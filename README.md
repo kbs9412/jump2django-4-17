@@ -1,1 +1,2 @@
-# jump2django-4-17
+# jump2django
+점프투장고 개정판
